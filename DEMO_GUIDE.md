@@ -33,7 +33,7 @@ This app reviews extra freight invoice fees called accessorial charges. Instead 
 
 ## Loom Links
 
-- [Demo 1: Product walkthrough](https://www.loom.com/share/0335ae5216b241ebaaea00c38ead1417)
+- [Demo 1: Product walkthrough](https://www.loom.com/share/8f5d4390d129442bae6731d771b2ae92)
 - [Demo 2: Agent flow explanation](https://www.loom.com/share/bb3670241d3248b9a30af5d3f8314c80)
 - [Demo 3: End-to-end audit and dispute flow](https://www.loom.com/share/fcd679d3da854b6cbe8beeeea0d6fc27)
 
